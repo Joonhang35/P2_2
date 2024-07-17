@@ -4,7 +4,7 @@ this is p2 group, welcome to our class
 
 dasd
 
-git init
+git init/clone
 git add
 git commit 
 git brach -m main
